@@ -18,8 +18,8 @@ export const PRODUCTS: Product[] = [
       'Boosts immune resilience & joint mobility',
       'Pure single-origin aroma with deep golden pigmentation'
     ],
-    harvestSeason: 'January - March',
-    image: '/src/assets/images/product_lakadong_turmeric_1790607380074.jpg',
+    harvestSeason: 'January - March', 
+    image: '/images/product_lakadong_turmeric_1790607380074.jpg',
     rating: 4.9,
     reviewsCount: 384,
     inStock: true,
@@ -43,7 +43,7 @@ export const PRODUCTS: Product[] = [
       'Zero synthetic colourants or fillers'
     ],
     harvestSeason: 'February - April',
-    image: '/src/assets/images/product_lakadong_turmeric_1790607380074.jpg',
+    image: '/images/product_lakadong_turmeric_1790607380074.jpg',
     rating: 4.8,
     reviewsCount: 192,
     inStock: true,
@@ -67,7 +67,7 @@ export const PRODUCTS: Product[] = [
       'Zero palm oil, mineral oils, or chemical deodorizers'
     ],
     harvestSeason: 'November - January',
-    image: '/src/assets/images/product_coldpressed_oil_1790607392341.jpg',
+    image: '/images/product_coldpressed_oil_1790607392341.jpg',
     rating: 4.9,
     reviewsCount: 512,
     inStock: true,
@@ -91,7 +91,7 @@ export const PRODUCTS: Product[] = [
       'Zero argemone or refined carrier oils'
     ],
     harvestSeason: 'October - December',
-    image: '/src/assets/images/product_coldpressed_oil_1790607392341.jpg',
+    image: '/images/product_coldpressed_oil_1790607392341.jpg',
     rating: 4.9,
     reviewsCount: 226,
     inStock: true,
@@ -115,7 +115,7 @@ export const PRODUCTS: Product[] = [
       'Versatile for gourmet culinary preparations and hair elixir'
     ],
     harvestSeason: 'Year-Round Harvest',
-    image: '/src/assets/images/product_coldpressed_oil_1790607392341.jpg',
+    image: '/images/product_coldpressed_oil_1790607392341.jpg',
     rating: 4.9,
     reviewsCount: 440,
     inStock: true,
@@ -139,7 +139,7 @@ export const PRODUCTS: Product[] = [
       'Effortless 1:2 rice substitute for khichdi, pulao & salads'
     ],
     harvestSeason: 'September - November',
-    image: '/src/assets/images/product_ancient_millets_1790607405199.jpg',
+    image: '/images/product_ancient_millets_1790607405199.jpg',
     rating: 4.8,
     reviewsCount: 310,
     inStock: true,
@@ -163,7 +163,7 @@ export const PRODUCTS: Product[] = [
       'Ideal for traditional upma, idlis, and wholesome porridge'
     ],
     harvestSeason: 'October - December',
-    image: '/src/assets/images/product_ancient_millets_1790607405199.jpg',
+    image: '/images/product_ancient_millets_1790607405199.jpg',
     rating: 4.7,
     reviewsCount: 168,
     inStock: true,
@@ -187,7 +187,7 @@ export const PRODUCTS: Product[] = [
       'Perfect for traditional rustic bhakri and rotla'
     ],
     harvestSeason: 'September - October',
-    image: '/src/assets/images/product_ancient_millets_1790607405199.jpg',
+    image: '/images/product_ancient_millets_1790607405199.jpg',
     rating: 4.8,
     reviewsCount: 145,
     inStock: true,
@@ -211,7 +211,7 @@ export const PRODUCTS: Product[] = [
       'Delicious whisked into warm milk or plant mylk'
     ],
     harvestSeason: 'November - February',
-    image: '/src/assets/images/hero_organic_ingredients_1790607365501.jpg',
+    image: '/images/hero_organic_ingredients_1790607365501.jpg',
     rating: 4.9,
     reviewsCount: 284,
     inStock: true,
@@ -235,7 +235,7 @@ export const PRODUCTS: Product[] = [
       'Aromatic whole leaf cut, zero dust or microplastic teabags'
     ],
     harvestSeason: 'Hand-picked Monthly',
-    image: '/src/assets/images/hero_organic_ingredients_1790607365501.jpg',
+    image: '/images/hero_organic_ingredients_1790607365501.jpg',
     rating: 4.8,
     reviewsCount: 395,
     inStock: true,
@@ -259,7 +259,7 @@ export const PRODUCTS: Product[] = [
       'Naturally invigorating morning or post-meal brew'
     ],
     harvestSeason: 'December - February',
-    image: '/src/assets/images/hero_organic_ingredients_1790607365501.jpg',
+    image: '/images/hero_organic_ingredients_1790607365501.jpg',
     rating: 4.9,
     reviewsCount: 215,
     inStock: true,
@@ -283,7 +283,7 @@ export const PRODUCTS: Product[] = [
       'No palm oil, MSG, or artificial flavor powders'
     ],
     harvestSeason: 'August - October',
-    image: '/src/assets/images/product_ancient_millets_1790607405199.jpg',
+    image: '/images/product_ancient_millets_1790607405199.jpg',
     rating: 4.8,
     reviewsCount: 420,
     inStock: true,
@@ -307,7 +307,7 @@ export const PRODUCTS: Product[] = [
       'Melt-in-mouth crumb with cardamom warmth'
     ],
     harvestSeason: 'Freshly Baked Weekly',
-    image: '/src/assets/images/product_ancient_millets_1790607405199.jpg',
+    image: '/images/product_ancient_millets_1790607405199.jpg',
     rating: 4.9,
     reviewsCount: 360,
     inStock: true,
@@ -331,7 +331,7 @@ export const PRODUCTS: Product[] = [
       'No added refined sugars or chemical glazes'
     ],
     harvestSeason: 'Year-Round Blend',
-    image: '/src/assets/images/product_ancient_millets_1790607405199.jpg',
+    image: '/images/product_ancient_millets_1790607405199.jpg',
     rating: 4.8,
     reviewsCount: 198,
     inStock: true,
